@@ -1,6 +1,6 @@
 # Hi, I'm John 👋
 
-I'm a Full-Stack Developer and Telecommunication Specialist Enthusiast. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+I'm a Software Developer and Telecommunication Specialist Enthusiast. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
 
 ## Programming Languages, Technologies, and Tools 🛠️
 
