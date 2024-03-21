@@ -4,18 +4,19 @@ I'm a Full-Stack Developer and Telecommunication Specialist Enthusiast. I love t
 
 ## Programming Languages, Technologies, and Tools 🛠️
 
-- **HTML**
-- **DART**
-- **PYTHON**
-- **MYSQL**
-- **MATLAB**
-- **GITHUB**
-- **ANACONDA**
-- **JAVASCRIPT**
-- **JAVA**
+- !HTML5 `HTML`
+- !Dart `DART`
+- !Python `PYTHON`
+- !MySQL `MYSQL`
+- !MATLAB `MATLAB`
+- !GitHub `GITHUB`
+- !Anaconda `ANACONDA`
+- !JavaScript `JAVASCRIPT`
+- !Java `JAVA`
 
 ## Let's Connect 🤝
 
 Feel free to connect with me on LinkedIn or shoot me an email at otienojohn642@gmail.com!
+
 
 
