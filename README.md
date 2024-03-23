@@ -4,15 +4,16 @@ I'm a Software Developer and Telecommunication Specialist Enthusiast. I love to 
 
 ## Programming Languages, Technologies, and Tools 🛠️
 
-- !HTML5 `HTML`
-- !Dart `DART`
-- !Python `PYTHON`
-- !MySQL `MYSQL`
-- !MATLAB `MATLAB`
-- !GitHub `GITHUB`
-- !Anaconda `ANACONDA`
-- !JavaScript `JAVASCRIPT`
-- !Java `JAVA`
+- `HTML`
+- `DART`
+- `PYTHON`
+- `MYSQL`
+- `MATLAB`
+- `GITHUB`
+- `ANACONDA`
+- `JAVASCRIPT`
+- `JAVA`
+  
 
 ## Let's Connect 🤝
 
