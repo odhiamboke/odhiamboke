@@ -1,23 +1,19 @@
-# Hi, I'm John 👋
+**Hi, I'm John Otieno.**
 
-I'm a Software Developer and Telecommunication Specialist Enthusiast. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+[**LinkedIn**](https://www.linkedin.com/in/john-o-213422210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [**✉️**](<a href="mailto:otienojohn642@gmail.com">Email Me</a>)
+| [**Twitter**](https://x.com/john_otieno1)
 
-## Programming Languages, Technologies, and Tools 🛠️
+**A little more about me...**
 
-- `HTML`
-- `DART`
-- `PYTHON`
-- `MYSQL`
-- `MATLAB`
-- `GITHUB`
-- `ANACONDA`
-- `JAVASCRIPT`
-- `JAVA`
-  
-
-## Let's Connect 🤝
-
-Feel free to connect with me on LinkedIn or shoot me an email at otienojohn642@gmail.com!
-
-
-
+* I'm a software development Trainee | Cybersecurity Enthusiast | Telecommunication and Information Technology student.
+* I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+* Languages I use:
+*  **JavaScript**
+*  **Java**☕
+*  **HTML**
+*  **SQL**
+*  **Reactjs**⚛️
+*  **Go**
+*  **GitHub**
+*  **Dart**
+*  **Python**
