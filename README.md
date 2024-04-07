@@ -14,7 +14,7 @@
 *  **Java**
 *  **HTML**
 *  **SQL**
-*  **Reactjs**
+*  **ReactJs**
 *  **Go**
 *  **GitHub**
 *  **Dart**
