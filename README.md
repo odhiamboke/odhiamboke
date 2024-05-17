@@ -4,7 +4,7 @@
 **A LITTLE MORE ABOUT ME...**
 
 * Telecommunication and Information Technology Student | Cybersecurity Enthusiast |  Software Development Trainee.
-* I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+* I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects and building community.
 
 **HOW TO REACH ME...**
 
