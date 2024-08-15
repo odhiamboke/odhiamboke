@@ -19,7 +19,7 @@
   
 <h5 align="left">CONNECT WITH ME:</h5>
 <p align="left">
-<a href="https://x.com/john_otieno1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="john_otieno1" height="30" width="40" /></a>
+<a href="https://x.com/john_otieno1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clw_john" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/john-o-213422210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-o-213422210" height="30" width="40" /></a>
 <a href="https://instagram.com/i.t.s_j.o.h.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.t.s_j.o.h.n" height="30" width="40" /></a>
 
